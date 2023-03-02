@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as o,t as s}from"./index-9b9f0439.js";const a={};function r(t,c){return n(),o("h1",null,"destination "+s(t.$route.params.id),1)}const _=e(a,[["render",r]]);export{_ as default};
