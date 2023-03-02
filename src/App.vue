@@ -1,10 +1,9 @@
 <script setup>
+import navigation from './components/TheNavigation.vue'
 </script>
 
 <template>
-  <router-link to="/">home</router-link> <br>
-  <router-link to="/login">login</router-link> <br>
-  <router-link to="/footer">footer</router-link> <br>
+  <navigation />
  <router-view></router-view>
 </template>
 
